@@ -31,7 +31,7 @@ The final design achieved the smallest package volume among competitors while sa
 | Small | 1.6 | 8 | 1.0 | 25 |
 
 - Total fan power consumption must not exceed 10 W
-  - Note: my iteration used only 2 small fans, consuming only 2 out of the 10 allocated Watts
+  - Note: my iteration used only 2 small fans, consuming only 2 out of the 10 allocated Watts and adding just 50 grams
 - Inlet holes (Forced-Air) can only be placed up to a maximum of 4 with a fixed diameter of 2.5 in. with uniform 25 mph and an ambient temperature of 80°F
 - Design needs exactly 1 passive vent with 1.0 in. diameter with ambient pressure only
 - These are the only openings allowed, and they must be placed on the sides only
