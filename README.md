@@ -88,6 +88,8 @@ Tools:
 - Altair Inspire Simulations
 
 <img width="1440" height="978" alt="Screenshot 2026-07-31 160220" src="https://github.com/user-attachments/assets/13f36026-75e3-4806-b0d8-2b5db6b64e5c" />
+<img width="1689" height="1113" alt="Screenshot 2026-07-31 163638" src="https://github.com/user-attachments/assets/24a80016-0347-41a8-bd96-9f9b5987c20a" />
+
 
 ---
 
