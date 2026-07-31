@@ -120,4 +120,5 @@ Full project documentation:
 
 ## Contributors
 Teddy Mendonca, Yashil Trivedi, William Preston, Sadiq Khan
+
 Team project completed for the 2026 Siemens Design Challenge.
