@@ -80,8 +80,8 @@ The module layout was optimized to balance:
 Our overall method revolved around consuming as much negative volume as possible by placing each cell 0.1 in. away from each other as close as possible. We "wrapped" the walls into the negative volume while maintaining a 0.5 in thickness. Our strategy revolved entirely around minimizing volume even if it starts adding to mass.
 
 Designed:
-- Battery enclosure geometry
-- Inlet/Outlet placements
+- Backup battery enclosure geometry in case this version did not pass
+- Placements for forced air inlets, passive pressure valve, and outlet fans on our enclosure iteration
 
 Tools:
 - SolidWorks CAD
